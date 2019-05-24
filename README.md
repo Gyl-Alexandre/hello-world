@@ -1,2 +1,2 @@
-# hello-xorld
+# hello-world
 My first repository
